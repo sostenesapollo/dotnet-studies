@@ -1,0 +1,12 @@
+/Users/sostenes/RiderProjects/Studies/Studies/bin/Debug/net7.0/Studies.deps.json
+/Users/sostenes/RiderProjects/Studies/Studies/bin/Debug/net7.0/Studies.dll
+/Users/sostenes/RiderProjects/Studies/Studies/bin/Debug/net7.0/Studies.pdb
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/Studies.csproj.AssemblyReference.cache
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/Studies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/Studies.AssemblyInfoInputs.cache
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/Studies.AssemblyInfo.cs
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/Studies.csproj.CoreCompileInputs.cache
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/Studies.dll
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/refint/Studies.dll
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/Studies.pdb
+/Users/sostenes/RiderProjects/Studies/Studies/obj/Debug/net7.0/ref/Studies.dll
