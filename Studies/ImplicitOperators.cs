@@ -16,6 +16,9 @@ public class Phone
 
         phone = phoneString;
         Console.WriteLine(phone);
+        Console.WriteLine(phone.CountryCode); // 55
+        Console.WriteLine(phone.Area); // 99
+        Console.WriteLine(phone.Number); // 88284904
     }
     
     public string CountryCode { get; set; }
