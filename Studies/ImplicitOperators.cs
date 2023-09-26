@@ -1,8 +1,8 @@
-﻿namespace ImplicitOperators;
-
-public class ImplicitOperators
+namespace ImplicitOperators;
+    
+public class Phone
 {
-    public static void Main()
+    public static void Testing()
     {
         var phone = new Phone()
         {
@@ -14,12 +14,8 @@ public class ImplicitOperators
 
         var number = "+55 (99) 88284904";
         Console.WriteLine(number);
-
     }
-}
-
-public class Phone
-{
+    
     public string CountryCode { get; set; }
     public string Area { get; set; }
     public string Number { get; set; }
@@ -48,3 +44,4 @@ public class Phone
     //     return $"+{CountryCode} ({Area}) {Number}";
     // }
 }
+
