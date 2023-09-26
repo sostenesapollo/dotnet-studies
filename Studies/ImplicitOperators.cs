@@ -12,8 +12,10 @@ public class Phone
         };
         Console.WriteLine(phone);
 
-        var number = "+55 (99) 88284904";
-        Console.WriteLine(number);
+        var phoneString = "55 99 88284904";
+
+        phone = phoneString;
+        Console.WriteLine(phone);
     }
     
     public string CountryCode { get; set; }
