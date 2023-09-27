@@ -12,7 +12,7 @@ public class Phone
         };
         Console.WriteLine(phone);
 
-        var phoneString = "55 99 88284904";
+        var phoneString = "55 99 1234";
 
         phone = phoneString;
         Console.WriteLine(phone);
